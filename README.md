@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
-      E: cenb707@gmail.com
-      https://www.codewars.com/users/bcen707
-      https://www.instagram.com/billy_bitess
+-      E: cenb707@gmail.com
+-      https://www.codewars.com/users/bcen707
+-      https://www.instagram.com/billy_bitess
 
 <!---
 bcen707/bcen707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
