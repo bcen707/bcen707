@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Billy
 - 👀 I’m interested in data engineering and bi analytics
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning data science (SQL, Python)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
 -      E: cenb707@gmail.com
--      https://www.codewars.com/users/bcen707
--      https://www.instagram.com/billy_bitess
+-      W: https://www.instagram.com/billy_bitess
 
 <!---
 bcen707/bcen707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
