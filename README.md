@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Billy
 - 👀 I’m interested in data engineering and bi analytics
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
 -      E: cenb707@gmail.com
