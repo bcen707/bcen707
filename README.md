@@ -1,4 +1,4 @@
-👋 你好！我的名字是Billy。
+👋 你好！我的名字是Billy。どうぞよろしくお寝がいします。
 
 Interested in data engineering and bi analytics to yield increased asset and environmental waste reduction
 and smart decision making.
