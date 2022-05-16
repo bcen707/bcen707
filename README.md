@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Billy
-- 👀 I’m interested in data engineering and bi analytics
+👋 你好！我的名字是Billy。
+
+Interested in data engineering and bi analytics to yield increased asset and environmental waste reduction
+and smart decision making.
 - 🌱 I’m currently learning data science (SQL, Python)
 - 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me: 
--      E: cenb707@gmail.com
--      W: https://www.instagram.com/billy_bitess
+
+
+📫: cenb707@gmail.com
+W: https://www.instagram.com/billy_bitess
 
 <!---
 bcen707/bcen707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
