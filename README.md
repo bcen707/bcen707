@@ -6,6 +6,9 @@ and smart decision making.
 - 💞️ I’m looking to collaborate on idk
 
 
+
+
+
 📫: cenb707@gmail.com
 
 W: https://www.instagram.com/billy_bitess
