@@ -1,8 +1,8 @@
 👋 你好！我的名字是Billy。どうぞよろしくお寝がいします。
 
-Applying data engineering and bi analytics to yield increased asset and environmental waste reduction.
+Applying computational data science to yield reduced resource consumption and environmental waste.
 - 🌱 I’m currently learning data science and ML (SQL, Python)
-- 💞️ I’m looking to collaborate on idk
+- 💞️ I’m looking to collaborate on non-profit, environmental, energy conservation initiatives.
 
 
 
