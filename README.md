@@ -1,6 +1,6 @@
 你好！我的名字是Billy。どうぞよろしくお寝がいします。
 
-Applying computational data science to yield reduced resource consumption and environmental waste.
+Applying computational data science to reduce resource consumption and environmental waste.
   1) Currently learning data science and ML (SQL, Python)
   2) Offering to collaborate on non-profit, environmental, energy conservation initiatives.
 
