@@ -4,7 +4,7 @@ Applying computational data science to reduce resource consumption and environme
   1) Currently learning data science and ML (SQL, Python)
   2) Offering to collaborate on non-profit, environmental, energy conservation initiatives.
 
-
+TL;DR Lettuce talk data science!
 
 
 
