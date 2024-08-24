@@ -10,6 +10,7 @@ Applying computational data science to reduce resource consumption and environme
 
 E: cenb707@gmail.com
 
+Message me via my LinkedIn here! https://www.linkedin.com/in/billycen/
 unrelated cooking science plug: https://www.instagram.com/billy_bitess
 
 <!---
