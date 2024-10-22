@@ -10,9 +10,11 @@ TL;DR Lettuce talk data science!
 
 E: cenb707@gmail.com
 
-Message me via my LinkedIn here! https://www.linkedin.com/in/billycen/
+Start a new group project via my LinkedIn? linkedin.com/in/billycen/
 
-unrelated cooking science plug: https://www.instagram.com/billy_bitess
+Future Projects? soundcloud.com/billy-cen/sets/hz-engineering-lab-vol-i-30
+
+unrelated cooking science plug: instagram.com/billy_bitess
 
 <!---
 bcen707/bcen707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
