@@ -1,6 +1,6 @@
 你好！我是Billy。どうぞよろしく。
 
-Applying computational data science to reduce resource consumption and environmental waste.
+I apply computational and visual data science to reduce resource consumption and environmental waste.
   1) Currently applying data science and machine learning (R, SQL, Python)
   2) Offering to collaborate on non-profit, environmental, energy conservation initiatives.
 
