@@ -1,4 +1,4 @@
-你好！我的名字是Billy。どうぞよろしくお寝がいします。
+你好！我是Billy。どうぞよろしく。
 
 Applying computational data science to reduce resource consumption and environmental waste.
   1) Currently learning data science and ML (SQL, Python)
