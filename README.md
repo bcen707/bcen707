@@ -15,6 +15,7 @@ Start a new group project via my LinkedIn?
 
 Future Projects? 
 - soundcloud.com/billy-cen/sets/hz-engineering-lab-vol-i-30
+- Hz Engineering Lab: Vol II (4D Version) - youtube.com/playlist?list=PLHiH87fnci76wM_SEB2HViwN8RkCh2YIO 
 - Music Recommendation Systems
 - Unrelated cooking experiments: instagram.com/billy_bitess
 
